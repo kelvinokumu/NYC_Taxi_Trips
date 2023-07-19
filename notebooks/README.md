@@ -1,4 +1,4 @@
-
+## Questions to help gain insights
 1. Trip Duration: What is the average duration of taxi trips based on the pickup and drop-off timestamps?
 2. Store and Forward Flag: How many trips had the "store_and_fwd_flag" set to true? Is there any correlation between this flag and trip duration or distance?
 3. Ratecode Analysis: What are the distribution and frequencies of different rate codes? Are there any rate codes that are more commonly used?
