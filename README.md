@@ -14,12 +14,8 @@ Exploratory Data Analysis (EDA): This is where the real fun begins! We will use 
 
 Time Series Analysis: As taxi trips exhibit temporal patterns, we will conduct a time series analysis to uncover trends throughout the year. This will help us identify busy periods, seasonality, and any significant changes in taxi usage.
 
-Geospatial Analysis: New York City is a vast urban landscape, and taxis traverse various neighborhoods. We will utilize Python's geospatial libraries to visualize taxi pick-up and drop-off locations, identify popular routes, and explore taxi density across different areas.
-
 Peak Hour Analysis: Understanding peak hours is crucial for both passengers and taxi drivers. We will analyze the dataset to determine the busiest times of the day, week, and month.
 
 Fare Analysis: We will delve into fare structures and identify factors influencing fare amounts. This analysis can provide valuable insights for passengers and taxi drivers alike.
 
 Conclusion: In the final section, we will summarize our findings and discuss the implications of our analysis. We will also consider potential areas for improvement in the New York taxi system based on the patterns discovered.
-
-Throughout this project, we encourage you to follow along with the Python code snippets and explanations, making it an excellent opportunity to enhance your data analysis skills using real-world data. So, let's buckle up and embark on this exciting journey into the 2020 New York Taxi Trips Analysis with Python!
