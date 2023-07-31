@@ -1,3 +1,5 @@
+# 2020 New York Taxi Trips Analysis with Python
+
 ## Questions to help gain insights
 1. Trip Duration: What is the average duration of taxi trips based on the pickup and drop-off timestamps?
 2. Store and Forward Flag: How many trips had the "store_and_fwd_flag" set to true? Is there any correlation between this flag and trip duration or distance?
